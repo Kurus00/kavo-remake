@@ -1,2 +1,2 @@
 # kavo-remake
-just
+this not official kavo library!
